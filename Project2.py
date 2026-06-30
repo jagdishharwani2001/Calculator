@@ -1,0 +1,5 @@
+print("Mahsihd","28/06/2013")
+print("Raj","2/01/2013")
+print("John","05/06/2013")
+print("Rajiv","08/12/2013")
+print("Khush","2/03/20313")
